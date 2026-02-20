@@ -6,3 +6,4 @@ networkx
 plotly
 matplotlib
 pyvis
+openpyxl
