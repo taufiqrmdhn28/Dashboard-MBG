@@ -3,8 +3,6 @@ pandas
 numpy
 scikit-learn
 networkx
-plotly.express
-json
-math
-matplotlib.colors
-pyvis.network
+plotly
+matplotlib
+pyvis
