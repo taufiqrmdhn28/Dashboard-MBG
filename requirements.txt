@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
-plotly
-google-generativeai
 scikit-learn
-statsmodels
-openpyxl
+networkx
+plotly.express
+json
+math
+matplotlib.colors
+pyvis.network
